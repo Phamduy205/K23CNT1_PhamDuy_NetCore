@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Core\\VSNetCore\\PvdLab06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B24106E6-4DF0-4E31-AEF2-4E9E4CCFCA3D}|PvdLab06\\PvdLab06.csproj|f:\\core\\vsnetcore\\pvdlab06\\pvdlab06\\controllers\\pvdemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24106E6-4DF0-4E31-AEF2-4E9E4CCFCA3D}|PvdLab06\\PvdLab06.csproj|solutionrelative:pvdlab06\\controllers\\pvdemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24106E6-4DF0-4E31-AEF2-4E9E4CCFCA3D}|PvdLab06\\PvdLab06.csproj|f:\\core\\vsnetcore\\pvdlab06\\pvdlab06\\controllers\\pvdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24106E6-4DF0-4E31-AEF2-4E9E4CCFCA3D}|PvdLab06\\PvdLab06.csproj|solutionrelative:pvdlab06\\controllers\\pvdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24106E6-4DF0-4E31-AEF2-4E9E4CCFCA3D}|PvdLab06\\PvdLab06.csproj|f:\\core\\vsnetcore\\pvdlab06\\pvdlab06\\views\\pvdemployee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B24106E6-4DF0-4E31-AEF2-4E9E4CCFCA3D}|PvdLab06\\PvdLab06.csproj|solutionrelative:pvdlab06\\views\\pvdemployee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24106E6-4DF0-4E31-AEF2-4E9E4CCFCA3D}|PvdLab06\\PvdLab06.csproj|f:\\core\\vsnetcore\\pvdlab06\\pvdlab06\\views\\pvdemployee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B24106E6-4DF0-4E31-AEF2-4E9E4CCFCA3D}|PvdLab06\\PvdLab06.csproj|solutionrelative:pvdlab06\\views\\pvdemployee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24106E6-4DF0-4E31-AEF2-4E9E4CCFCA3D}|PvdLab06\\PvdLab06.csproj|f:\\core\\vsnetcore\\pvdlab06\\pvdlab06\\views\\pvdemployee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B24106E6-4DF0-4E31-AEF2-4E9E4CCFCA3D}|PvdLab06\\PvdLab06.csproj|solutionrelative:pvdlab06\\views\\pvdemployee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24106E6-4DF0-4E31-AEF2-4E9E4CCFCA3D}|PvdLab06\\PvdLab06.csproj|f:\\core\\vsnetcore\\pvdlab06\\pvdlab06\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24106E6-4DF0-4E31-AEF2-4E9E4CCFCA3D}|PvdLab06\\PvdLab06.csproj|solutionrelative:pvdlab06\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24106E6-4DF0-4E31-AEF2-4E9E4CCFCA3D}|PvdLab06\\PvdLab06.csproj|f:\\core\\vsnetcore\\pvdlab06\\pvdlab06\\views\\shared\\_pvdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B24106E6-4DF0-4E31-AEF2-4E9E4CCFCA3D}|PvdLab06\\PvdLab06.csproj|solutionrelative:pvdlab06\\views\\shared\\_pvdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24106E6-4DF0-4E31-AEF2-4E9E4CCFCA3D}|PvdLab06\\PvdLab06.csproj|f:\\core\\vsnetcore\\pvdlab06\\pvdlab06\\views\\pvdhome\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B24106E6-4DF0-4E31-AEF2-4E9E4CCFCA3D}|PvdLab06\\PvdLab06.csproj|solutionrelative:pvdlab06\\views\\pvdhome\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24106E6-4DF0-4E31-AEF2-4E9E4CCFCA3D}|PvdLab06\\PvdLab06.csproj|f:\\core\\vsnetcore\\pvdlab06\\pvdlab06\\models\\pvdemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24106E6-4DF0-4E31-AEF2-4E9E4CCFCA3D}|PvdLab06\\PvdLab06.csproj|solutionrelative:pvdlab06\\models\\pvdemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\PvdLab06\\PvdLab06\\Views\\PvdEmployee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PvdLab06\\Views\\PvdEmployee\\Edit.cshtml",
+              "ToolTip": "F:\\Core\\VSNetCore\\PvdLab06\\PvdLab06\\Views\\PvdEmployee\\Edit.cshtml",
+              "RelativeToolTip": "PvdLab06\\Views\\PvdEmployee\\Edit.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T03:00:47.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\PvdLab06\\PvdLab06\\Views\\PvdEmployee\\Create.cshtml",
+              "RelativeDocumentMoniker": "PvdLab06\\Views\\PvdEmployee\\Create.cshtml",
+              "ToolTip": "F:\\Core\\VSNetCore\\PvdLab06\\PvdLab06\\Views\\PvdEmployee\\Create.cshtml",
+              "RelativeToolTip": "PvdLab06\\Views\\PvdEmployee\\Create.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T02:51:43.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PvdEmployeeController.cs",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\PvdLab06\\PvdLab06\\Controllers\\PvdEmployeeController.cs",
+              "RelativeDocumentMoniker": "PvdLab06\\Controllers\\PvdEmployeeController.cs",
+              "ToolTip": "F:\\Core\\VSNetCore\\PvdLab06\\PvdLab06\\Controllers\\PvdEmployeeController.cs",
+              "RelativeToolTip": "PvdLab06\\Controllers\\PvdEmployeeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:42:22.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_PvdLayout.cshtml",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\PvdLab06\\PvdLab06\\Views\\Shared\\_PvdLayout.cshtml",
+              "RelativeDocumentMoniker": "PvdLab06\\Views\\Shared\\_PvdLayout.cshtml",
+              "ToolTip": "F:\\Core\\VSNetCore\\PvdLab06\\PvdLab06\\Views\\Shared\\_PvdLayout.cshtml",
+              "RelativeToolTip": "PvdLab06\\Views\\Shared\\_PvdLayout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T02:43:02.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\PvdLab06\\PvdLab06\\Views\\PvdHome\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PvdLab06\\Views\\PvdHome\\Privacy.cshtml",
+              "ToolTip": "F:\\Core\\VSNetCore\\PvdLab06\\PvdLab06\\Views\\PvdHome\\Privacy.cshtml",
+              "RelativeToolTip": "PvdLab06\\Views\\PvdHome\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T02:43:02.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PvdHomeController.cs",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\PvdLab06\\PvdLab06\\Controllers\\PvdHomeController.cs",
+              "RelativeDocumentMoniker": "PvdLab06\\Controllers\\PvdHomeController.cs",
+              "ToolTip": "F:\\Core\\VSNetCore\\PvdLab06\\PvdLab06\\Controllers\\PvdHomeController.cs",
+              "RelativeToolTip": "PvdLab06\\Controllers\\PvdHomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:43:00.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\PvdLab06\\PvdLab06\\Views\\PvdEmployee\\Index.cshtml",
+              "RelativeDocumentMoniker": "PvdLab06\\Views\\PvdEmployee\\Index.cshtml",
+              "ToolTip": "F:\\Core\\VSNetCore\\PvdLab06\\PvdLab06\\Views\\PvdEmployee\\Index.cshtml",
+              "RelativeToolTip": "PvdLab06\\Views\\PvdEmployee\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T02:41:55.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PvdEmployee.cs",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\PvdLab06\\PvdLab06\\Models\\PvdEmployee.cs",
+              "RelativeDocumentMoniker": "PvdLab06\\Models\\PvdEmployee.cs",
+              "ToolTip": "F:\\Core\\VSNetCore\\PvdLab06\\PvdLab06\\Models\\PvdEmployee.cs",
+              "RelativeToolTip": "PvdLab06\\Models\\PvdEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:41:33.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\PvdLab06\\PvdLab06\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PvdLab06\\Models\\ErrorViewModel.cs",
+              "ToolTip": "F:\\Core\\VSNetCore\\PvdLab06\\PvdLab06\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PvdLab06\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:38:32.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

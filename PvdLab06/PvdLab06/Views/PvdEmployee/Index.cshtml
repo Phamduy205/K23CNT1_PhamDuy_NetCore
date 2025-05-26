@@ -1,0 +1,42 @@
+﻿@model List<PvdLab06.Models.PvdEmployee>
+
+@{
+    ViewData["Title"] = "Danh sách nhân viên";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<a class="btn btn-success mb-3" href="/PvdEmployee/Create">+ Thêm nhân viên</a>
+
+<table class="table table-bordered table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>Mã NV</th>
+            <th>Họ tên</th>
+            <th>Ngày sinh</th>
+            <th>Email</th>
+            <th>Điện thoại</th>
+            <th>Lương</th>
+            <th>Trạng thái</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <td>@emp.PvdId</td>
+                <td>@emp.PvdName</td>
+                <td>@emp.PvdBirthDay.ToString("dd/MM/yyyy")</td>
+                <td>@emp.PvdEmail</td>
+                <td>@emp.PvdPhone</td>
+                <td>@emp.PvdSalary.ToString("N0") VNĐ</td>
+                <td>@(emp.PvdStatus ? "Đang làm" : "Nghỉ việc")</td>
+                <td>
+                    <a class="btn btn-warning btn-sm" href="/PvdEmployee/Edit/@emp.PvdId">Sửa</a>
+                    <a class="btn btn-danger btn-sm" href="/PvdEmployee/Delete/@emp.PvdId">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

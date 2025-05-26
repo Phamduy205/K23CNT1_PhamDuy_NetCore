@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PvdLab06.props" />
+</Project>

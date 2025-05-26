@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Core\\VSNetCore\\lesson03\\PvdLesson03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6761AE3-5577-40CC-B2C8-007CC7B0EDEE}|PvdLesson03\\PvdLesson03.csproj|f:\\core\\vsnetcore\\lesson03\\pvdlesson03\\pvdlesson03\\views\\shared\\_pvdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6761AE3-5577-40CC-B2C8-007CC7B0EDEE}|PvdLesson03\\PvdLesson03.csproj|solutionrelative:pvdlesson03\\views\\shared\\_pvdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6761AE3-5577-40CC-B2C8-007CC7B0EDEE}|PvdLesson03\\PvdLesson03.csproj|f:\\core\\vsnetcore\\lesson03\\pvdlesson03\\pvdlesson03\\views\\pvdhome\\pvdprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6761AE3-5577-40CC-B2C8-007CC7B0EDEE}|PvdLesson03\\PvdLesson03.csproj|solutionrelative:pvdlesson03\\views\\pvdhome\\pvdprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6761AE3-5577-40CC-B2C8-007CC7B0EDEE}|PvdLesson03\\PvdLesson03.csproj|f:\\core\\vsnetcore\\lesson03\\pvdlesson03\\pvdlesson03\\views\\pvdhome\\pvdabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6761AE3-5577-40CC-B2C8-007CC7B0EDEE}|PvdLesson03\\PvdLesson03.csproj|solutionrelative:pvdlesson03\\views\\pvdhome\\pvdabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6761AE3-5577-40CC-B2C8-007CC7B0EDEE}|PvdLesson03\\PvdLesson03.csproj|f:\\core\\vsnetcore\\lesson03\\pvdlesson03\\pvdlesson03\\views\\pvdhome\\pvdrazorcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6761AE3-5577-40CC-B2C8-007CC7B0EDEE}|PvdLesson03\\PvdLesson03.csproj|solutionrelative:pvdlesson03\\views\\pvdhome\\pvdrazorcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6761AE3-5577-40CC-B2C8-007CC7B0EDEE}|PvdLesson03\\PvdLesson03.csproj|f:\\core\\vsnetcore\\lesson03\\pvdlesson03\\pvdlesson03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6761AE3-5577-40CC-B2C8-007CC7B0EDEE}|PvdLesson03\\PvdLesson03.csproj|solutionrelative:pvdlesson03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6761AE3-5577-40CC-B2C8-007CC7B0EDEE}|PvdLesson03\\PvdLesson03.csproj|f:\\core\\vsnetcore\\lesson03\\pvdlesson03\\pvdlesson03\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6761AE3-5577-40CC-B2C8-007CC7B0EDEE}|PvdLesson03\\PvdLesson03.csproj|solutionrelative:pvdlesson03\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6761AE3-5577-40CC-B2C8-007CC7B0EDEE}|PvdLesson03\\PvdLesson03.csproj|f:\\core\\vsnetcore\\lesson03\\pvdlesson03\\pvdlesson03\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6761AE3-5577-40CC-B2C8-007CC7B0EDEE}|PvdLesson03\\PvdLesson03.csproj|solutionrelative:pvdlesson03\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6761AE3-5577-40CC-B2C8-007CC7B0EDEE}|PvdLesson03\\PvdLesson03.csproj|f:\\core\\vsnetcore\\lesson03\\pvdlesson03\\pvdlesson03\\controllers\\pvdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6761AE3-5577-40CC-B2C8-007CC7B0EDEE}|PvdLesson03\\PvdLesson03.csproj|solutionrelative:pvdlesson03\\controllers\\pvdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6761AE3-5577-40CC-B2C8-007CC7B0EDEE}|PvdLesson03\\PvdLesson03.csproj|f:\\core\\vsnetcore\\lesson03\\pvdlesson03\\pvdlesson03\\views\\pvdhome\\pvdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6761AE3-5577-40CC-B2C8-007CC7B0EDEE}|PvdLesson03\\PvdLesson03.csproj|solutionrelative:pvdlesson03\\views\\pvdhome\\pvdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6761AE3-5577-40CC-B2C8-007CC7B0EDEE}|PvdLesson03\\PvdLesson03.csproj|f:\\core\\vsnetcore\\lesson03\\pvdlesson03\\pvdlesson03\\views\\shared\\_pvdlayout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D6761AE3-5577-40CC-B2C8-007CC7B0EDEE}|PvdLesson03\\PvdLesson03.csproj|solutionrelative:pvdlesson03\\views\\shared\\_pvdlayout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\lesson03\\PvdLesson03\\PvdLesson03\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PvdLesson03\\Views\\_ViewImports.cshtml",
+              "ToolTip": "F:\\Core\\VSNetCore\\lesson03\\PvdLesson03\\PvdLesson03\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PvdLesson03\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T02:59:46.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\lesson03\\PvdLesson03\\PvdLesson03\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PvdLesson03\\Views\\_ViewStart.cshtml",
+              "ToolTip": "F:\\Core\\VSNetCore\\lesson03\\PvdLesson03\\PvdLesson03\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PvdLesson03\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T02:58:21.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_PvdLayout.cshtml.css",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\lesson03\\PvdLesson03\\PvdLesson03\\Views\\Shared\\_PvdLayout.cshtml.css",
+              "RelativeDocumentMoniker": "PvdLesson03\\Views\\Shared\\_PvdLayout.cshtml.css",
+              "ToolTip": "F:\\Core\\VSNetCore\\lesson03\\PvdLesson03\\PvdLesson03\\Views\\Shared\\_PvdLayout.cshtml.css",
+              "RelativeToolTip": "PvdLesson03\\Views\\Shared\\_PvdLayout.cshtml.css",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-12T02:55:25.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PvdIndex.cshtml",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\lesson03\\PvdLesson03\\PvdLesson03\\Views\\PvdHome\\PvdIndex.cshtml",
+              "RelativeDocumentMoniker": "PvdLesson03\\Views\\PvdHome\\PvdIndex.cshtml",
+              "ToolTip": "F:\\Core\\VSNetCore\\lesson03\\PvdLesson03\\PvdLesson03\\Views\\PvdHome\\PvdIndex.cshtml",
+              "RelativeToolTip": "PvdLesson03\\Views\\PvdHome\\PvdIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T02:56:09.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PvdRazorcode.cshtml",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\lesson03\\PvdLesson03\\PvdLesson03\\Views\\PvdHome\\PvdRazorcode.cshtml",
+              "RelativeDocumentMoniker": "PvdLesson03\\Views\\PvdHome\\PvdRazorcode.cshtml",
+              "ToolTip": "F:\\Core\\VSNetCore\\lesson03\\PvdLesson03\\PvdLesson03\\Views\\PvdHome\\PvdRazorcode.cshtml",
+              "RelativeToolTip": "PvdLesson03\\Views\\PvdHome\\PvdRazorcode.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwDoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T02:03:48.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PvdProfile.cshtml",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\lesson03\\PvdLesson03\\PvdLesson03\\Views\\PvdHome\\PvdProfile.cshtml",
+              "RelativeDocumentMoniker": "PvdLesson03\\Views\\PvdHome\\PvdProfile.cshtml",
+              "ToolTip": "F:\\Core\\VSNetCore\\lesson03\\PvdLesson03\\PvdLesson03\\Views\\PvdHome\\PvdProfile.cshtml",
+              "RelativeToolTip": "PvdLesson03\\Views\\PvdHome\\PvdProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T01:59:17.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PvdAbout.cshtml",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\lesson03\\PvdLesson03\\PvdLesson03\\Views\\PvdHome\\PvdAbout.cshtml",
+              "RelativeDocumentMoniker": "PvdLesson03\\Views\\PvdHome\\PvdAbout.cshtml",
+              "ToolTip": "F:\\Core\\VSNetCore\\lesson03\\PvdLesson03\\PvdLesson03\\Views\\PvdHome\\PvdAbout.cshtml",
+              "RelativeToolTip": "PvdLesson03\\Views\\PvdHome\\PvdAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T01:43:13.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_PvdLayout.cshtml",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\lesson03\\PvdLesson03\\PvdLesson03\\Views\\Shared\\_PvdLayout.cshtml",
+              "RelativeDocumentMoniker": "PvdLesson03\\Views\\Shared\\_PvdLayout.cshtml",
+              "ToolTip": "F:\\Core\\VSNetCore\\lesson03\\PvdLesson03\\PvdLesson03\\Views\\Shared\\_PvdLayout.cshtml",
+              "RelativeToolTip": "PvdLesson03\\Views\\Shared\\_PvdLayout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T01:38:23.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\lesson03\\PvdLesson03\\PvdLesson03\\Program.cs",
+              "RelativeDocumentMoniker": "PvdLesson03\\Program.cs",
+              "ToolTip": "F:\\Core\\VSNetCore\\lesson03\\PvdLesson03\\PvdLesson03\\Program.cs",
+              "RelativeToolTip": "PvdLesson03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:34:31.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PvdHomeController.cs",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\lesson03\\PvdLesson03\\PvdLesson03\\Controllers\\PvdHomeController.cs",
+              "RelativeDocumentMoniker": "PvdLesson03\\Controllers\\PvdHomeController.cs",
+              "ToolTip": "F:\\Core\\VSNetCore\\lesson03\\PvdLesson03\\PvdLesson03\\Controllers\\PvdHomeController.cs",
+              "RelativeToolTip": "PvdLesson03\\Controllers\\PvdHomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wCMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:27:17.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

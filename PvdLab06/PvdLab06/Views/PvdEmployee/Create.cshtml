@@ -1,0 +1,36 @@
+﻿@model PvdLab06.Models.PvdEmployee
+
+<h2>Thêm nhân viên</h2>
+
+<form method="post">
+    <div class="mb-2">
+        <label>Mã NV</label>
+        <input class="form-control" asp-for="PvdId" />
+    </div>
+    <div class="mb-2">
+        <label>Họ tên</label>
+        <input class="form-control" asp-for="PvdName" />
+    </div>
+    <div class="mb-2">
+        <label>Ngày sinh</label>
+        <input class="form-control" asp-for="PvdBirthDay" type="date" />
+    </div>
+    <div class="mb-2">
+        <label>Email</label>
+        <input class="form-control" asp-for="PvdEmail" />
+    </div>
+    <div class="mb-2">
+        <label>Điện thoại</label>
+        <input class="form-control" asp-for="PvdPhone" />
+    </div>
+    <div class="mb-2">
+        <label>Lương</label>
+        <input class="form-control" asp-for="PvdSalary" />
+    </div>
+    <div class="mb-2">
+        <label>Trạng thái</label>
+        <input type="checkbox" asp-for="PvdStatus" /> Đang làm việc
+    </div>
+    <button class="btn btn-primary">Lưu</button>
+    <a class="btn btn-secondary" href="/PvdEmployee/Index">Hủy</a>
+</form>
