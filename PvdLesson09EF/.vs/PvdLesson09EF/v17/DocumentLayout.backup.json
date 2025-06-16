@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\PvdLesson09EF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4538524E-1AE5-4C7A-ADC9-5DF924CD99E7}|PvdLesson09EF\\PvdLesson09EF.csproj|f:\\core\\vsnetcore\\k23cnt1_phamduy_netcore\\pvdlesson09ef\\pvdlesson09ef\\views\\shared\\_pvdnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4538524E-1AE5-4C7A-ADC9-5DF924CD99E7}|PvdLesson09EF\\PvdLesson09EF.csproj|solutionrelative:pvdlesson09ef\\views\\shared\\_pvdnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4538524E-1AE5-4C7A-ADC9-5DF924CD99E7}|PvdLesson09EF\\PvdLesson09EF.csproj|f:\\core\\vsnetcore\\k23cnt1_phamduy_netcore\\pvdlesson09ef\\pvdlesson09ef\\controllers\\pvdpublisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4538524E-1AE5-4C7A-ADC9-5DF924CD99E7}|PvdLesson09EF\\PvdLesson09EF.csproj|solutionrelative:pvdlesson09ef\\controllers\\pvdpublisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_PvdNavBar.cshtml",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\PvdLesson09EF\\PvdLesson09EF\\Views\\Shared\\_PvdNavBar.cshtml",
+              "RelativeDocumentMoniker": "PvdLesson09EF\\Views\\Shared\\_PvdNavBar.cshtml",
+              "ToolTip": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\PvdLesson09EF\\PvdLesson09EF\\Views\\Shared\\_PvdNavBar.cshtml*",
+              "RelativeToolTip": "PvdLesson09EF\\Views\\Shared\\_PvdNavBar.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T04:09:46.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PvdPublishersController.cs",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\PvdLesson09EF\\PvdLesson09EF\\Controllers\\PvdPublishersController.cs",
+              "RelativeDocumentMoniker": "PvdLesson09EF\\Controllers\\PvdPublishersController.cs",
+              "ToolTip": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\PvdLesson09EF\\PvdLesson09EF\\Controllers\\PvdPublishersController.cs*",
+              "RelativeToolTip": "PvdLesson09EF\\Controllers\\PvdPublishersController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T04:04:16.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

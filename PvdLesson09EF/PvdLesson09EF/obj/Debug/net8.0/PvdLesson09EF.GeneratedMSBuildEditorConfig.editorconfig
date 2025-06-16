@@ -1,0 +1,99 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PvdLesson09EF
+build_property.RootNamespace = PvdLesson09EF
+build_property.ProjectDir = F:\Core\VSNetCore\K23CNT1_PhamDuy_NetCore\PvdLesson09EF\PvdLesson09EF\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\Core\VSNetCore\K23CNT1_PhamDuy_NetCore\PvdLesson09EF\PvdLesson09EF
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/Core/VSNetCore/K23CNT1_PhamDuy_NetCore/PvdLesson09EF/PvdLesson09EF/Views/PvdCategories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHZkQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Core/VSNetCore/K23CNT1_PhamDuy_NetCore/PvdLesson09EF/PvdLesson09EF/Views/PvdCategories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHZkQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Core/VSNetCore/K23CNT1_PhamDuy_NetCore/PvdLesson09EF/PvdLesson09EF/Views/PvdCategories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHZkQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Core/VSNetCore/K23CNT1_PhamDuy_NetCore/PvdLesson09EF/PvdLesson09EF/Views/PvdCategories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHZkQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Core/VSNetCore/K23CNT1_PhamDuy_NetCore/PvdLesson09EF/PvdLesson09EF/Views/PvdCategories/PvdIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHZkQ2F0ZWdvcmllc1xQdmRJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Core/VSNetCore/K23CNT1_PhamDuy_NetCore/PvdLesson09EF/PvdLesson09EF/Views/PvdHome/PvdAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHZkSG9tZVxQdmRBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Core/VSNetCore/K23CNT1_PhamDuy_NetCore/PvdLesson09EF/PvdLesson09EF/Views/PvdHome/PvdIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHZkSG9tZVxQdmRJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Core/VSNetCore/K23CNT1_PhamDuy_NetCore/PvdLesson09EF/PvdLesson09EF/Views/PvdPublishers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHZkUHVibGlzaGVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Core/VSNetCore/K23CNT1_PhamDuy_NetCore/PvdLesson09EF/PvdLesson09EF/Views/PvdPublishers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHZkUHVibGlzaGVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Core/VSNetCore/K23CNT1_PhamDuy_NetCore/PvdLesson09EF/PvdLesson09EF/Views/PvdPublishers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHZkUHVibGlzaGVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Core/VSNetCore/K23CNT1_PhamDuy_NetCore/PvdLesson09EF/PvdLesson09EF/Views/PvdPublishers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHZkUHVibGlzaGVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Core/VSNetCore/K23CNT1_PhamDuy_NetCore/PvdLesson09EF/PvdLesson09EF/Views/PvdPublishers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHZkUHVibGlzaGVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Core/VSNetCore/K23CNT1_PhamDuy_NetCore/PvdLesson09EF/PvdLesson09EF/Views/Shared/PvdError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFB2ZEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Core/VSNetCore/K23CNT1_PhamDuy_NetCore/PvdLesson09EF/PvdLesson09EF/Views/Shared/_PvdNavBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QdmROYXZCYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Core/VSNetCore/K23CNT1_PhamDuy_NetCore/PvdLesson09EF/PvdLesson09EF/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Core/VSNetCore/K23CNT1_PhamDuy_NetCore/PvdLesson09EF/PvdLesson09EF/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Core/VSNetCore/K23CNT1_PhamDuy_NetCore/PvdLesson09EF/PvdLesson09EF/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Core/VSNetCore/K23CNT1_PhamDuy_NetCore/PvdLesson09EF/PvdLesson09EF/Views/Shared/_PvdLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QdmRMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fioitdo6kn

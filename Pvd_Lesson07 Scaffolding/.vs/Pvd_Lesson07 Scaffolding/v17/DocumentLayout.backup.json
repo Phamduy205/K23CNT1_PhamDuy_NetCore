@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\Pvd_Lesson07 Scaffolding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAAA2232-AF55-472C-8919-91F902161E3A}|Pvd_Lesson07 Scaffolding\\Pvd_Lesson07 Scaffolding.csproj|f:\\core\\vsnetcore\\k23cnt1_phamduy_netcore\\pvd_lesson07 scaffolding\\pvd_lesson07 scaffolding\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAAA2232-AF55-472C-8919-91F902161E3A}|Pvd_Lesson07 Scaffolding\\Pvd_Lesson07 Scaffolding.csproj|solutionrelative:pvd_lesson07 scaffolding\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAAA2232-AF55-472C-8919-91F902161E3A}|Pvd_Lesson07 Scaffolding\\Pvd_Lesson07 Scaffolding.csproj|f:\\core\\vsnetcore\\k23cnt1_phamduy_netcore\\pvd_lesson07 scaffolding\\pvd_lesson07 scaffolding\\views\\pvdhome\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAAA2232-AF55-472C-8919-91F902161E3A}|Pvd_Lesson07 Scaffolding\\Pvd_Lesson07 Scaffolding.csproj|solutionrelative:pvd_lesson07 scaffolding\\views\\pvdhome\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAAA2232-AF55-472C-8919-91F902161E3A}|Pvd_Lesson07 Scaffolding\\Pvd_Lesson07 Scaffolding.csproj|f:\\core\\vsnetcore\\k23cnt1_phamduy_netcore\\pvd_lesson07 scaffolding\\pvd_lesson07 scaffolding\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAAA2232-AF55-472C-8919-91F902161E3A}|Pvd_Lesson07 Scaffolding\\Pvd_Lesson07 Scaffolding.csproj|solutionrelative:pvd_lesson07 scaffolding\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\Pvd_Lesson07 Scaffolding\\Pvd_Lesson07 Scaffolding\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pvd_Lesson07 Scaffolding\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\Pvd_Lesson07 Scaffolding\\Pvd_Lesson07 Scaffolding\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Pvd_Lesson07 Scaffolding\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T02:06:33.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\Pvd_Lesson07 Scaffolding\\Pvd_Lesson07 Scaffolding\\Views\\PvdHome\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Pvd_Lesson07 Scaffolding\\Views\\PvdHome\\Privacy.cshtml",
+              "ToolTip": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\Pvd_Lesson07 Scaffolding\\Pvd_Lesson07 Scaffolding\\Views\\PvdHome\\Privacy.cshtml",
+              "RelativeToolTip": "Pvd_Lesson07 Scaffolding\\Views\\PvdHome\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T02:06:30.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\Pvd_Lesson07 Scaffolding\\Pvd_Lesson07 Scaffolding\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Pvd_Lesson07 Scaffolding\\Models\\ErrorViewModel.cs",
+              "ToolTip": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\Pvd_Lesson07 Scaffolding\\Pvd_Lesson07 Scaffolding\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Pvd_Lesson07 Scaffolding\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T02:06:29.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

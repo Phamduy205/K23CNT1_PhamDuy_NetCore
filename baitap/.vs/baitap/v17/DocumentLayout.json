@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\baitap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1E4F9C-31D8-4524-B858-7E4CBB99A744}|baitap\\baitap.csproj|f:\\core\\vsnetcore\\k23cnt1_phamduy_netcore\\baitap\\baitap\\controllers\\pvdemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1E4F9C-31D8-4524-B858-7E4CBB99A744}|baitap\\baitap.csproj|solutionrelative:baitap\\controllers\\pvdemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1E4F9C-31D8-4524-B858-7E4CBB99A744}|baitap\\baitap.csproj|f:\\core\\vsnetcore\\k23cnt1_phamduy_netcore\\baitap\\baitap\\views\\pvdhome\\pvdabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC1E4F9C-31D8-4524-B858-7E4CBB99A744}|baitap\\baitap.csproj|solutionrelative:baitap\\views\\pvdhome\\pvdabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1E4F9C-31D8-4524-B858-7E4CBB99A744}|baitap\\baitap.csproj|f:\\core\\vsnetcore\\k23cnt1_phamduy_netcore\\baitap\\baitap\\models\\pvdemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1E4F9C-31D8-4524-B858-7E4CBB99A744}|baitap\\baitap.csproj|solutionrelative:baitap\\models\\pvdemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1E4F9C-31D8-4524-B858-7E4CBB99A744}|baitap\\baitap.csproj|f:\\core\\vsnetcore\\k23cnt1_phamduy_netcore\\baitap\\baitap\\views\\shared\\_pvdnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC1E4F9C-31D8-4524-B858-7E4CBB99A744}|baitap\\baitap.csproj|solutionrelative:baitap\\views\\shared\\_pvdnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1E4F9C-31D8-4524-B858-7E4CBB99A744}|baitap\\baitap.csproj|f:\\core\\vsnetcore\\k23cnt1_phamduy_netcore\\baitap\\baitap\\views\\shared\\_pvdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC1E4F9C-31D8-4524-B858-7E4CBB99A744}|baitap\\baitap.csproj|solutionrelative:baitap\\views\\shared\\_pvdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1E4F9C-31D8-4524-B858-7E4CBB99A744}|baitap\\baitap.csproj|f:\\core\\vsnetcore\\k23cnt1_phamduy_netcore\\baitap\\baitap\\views\\pvdhome\\pvdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC1E4F9C-31D8-4524-B858-7E4CBB99A744}|baitap\\baitap.csproj|solutionrelative:baitap\\views\\pvdhome\\pvdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1E4F9C-31D8-4524-B858-7E4CBB99A744}|baitap\\baitap.csproj|f:\\core\\vsnetcore\\k23cnt1_phamduy_netcore\\baitap\\baitap\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC1E4F9C-31D8-4524-B858-7E4CBB99A744}|baitap\\baitap.csproj|solutionrelative:baitap\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1E4F9C-31D8-4524-B858-7E4CBB99A744}|baitap\\baitap.csproj|f:\\core\\vsnetcore\\k23cnt1_phamduy_netcore\\baitap\\baitap\\controllers\\pvdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1E4F9C-31D8-4524-B858-7E4CBB99A744}|baitap\\baitap.csproj|solutionrelative:baitap\\controllers\\pvdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PvdEmployeeController.cs",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\baitap\\baitap\\Controllers\\PvdEmployeeController.cs",
+              "RelativeDocumentMoniker": "baitap\\Controllers\\PvdEmployeeController.cs",
+              "ToolTip": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\baitap\\baitap\\Controllers\\PvdEmployeeController.cs",
+              "RelativeToolTip": "baitap\\Controllers\\PvdEmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T02:18:32.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PvdEmployee.cs",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\baitap\\baitap\\Models\\PvdEmployee.cs",
+              "RelativeDocumentMoniker": "baitap\\Models\\PvdEmployee.cs",
+              "ToolTip": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\baitap\\baitap\\Models\\PvdEmployee.cs",
+              "RelativeToolTip": "baitap\\Models\\PvdEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T02:12:26.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_PvdNavBar.cshtml",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\baitap\\baitap\\Views\\Shared\\_PvdNavBar.cshtml",
+              "RelativeDocumentMoniker": "baitap\\Views\\Shared\\_PvdNavBar.cshtml",
+              "ToolTip": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\baitap\\baitap\\Views\\Shared\\_PvdNavBar.cshtml",
+              "RelativeToolTip": "baitap\\Views\\Shared\\_PvdNavBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T01:55:34.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\baitap\\baitap\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "baitap\\Views\\_ViewStart.cshtml",
+              "ToolTip": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\baitap\\baitap\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "baitap\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T01:50:31.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PvdAbout.cshtml",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\baitap\\baitap\\Views\\PvdHome\\PvdAbout.cshtml",
+              "RelativeDocumentMoniker": "baitap\\Views\\PvdHome\\PvdAbout.cshtml",
+              "ToolTip": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\baitap\\baitap\\Views\\PvdHome\\PvdAbout.cshtml",
+              "RelativeToolTip": "baitap\\Views\\PvdHome\\PvdAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T01:45:25.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PvdHomeController.cs",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\baitap\\baitap\\Controllers\\PvdHomeController.cs",
+              "RelativeDocumentMoniker": "baitap\\Controllers\\PvdHomeController.cs",
+              "ToolTip": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\baitap\\baitap\\Controllers\\PvdHomeController.cs",
+              "RelativeToolTip": "baitap\\Controllers\\PvdHomeController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAEwBQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:43:45.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PvdIndex.cshtml",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\baitap\\baitap\\Views\\PvdHome\\PvdIndex.cshtml",
+              "RelativeDocumentMoniker": "baitap\\Views\\PvdHome\\PvdIndex.cshtml",
+              "ToolTip": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\baitap\\baitap\\Views\\PvdHome\\PvdIndex.cshtml",
+              "RelativeToolTip": "baitap\\Views\\PvdHome\\PvdIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T01:37:56.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_PvdLayout.cshtml",
+              "DocumentMoniker": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\baitap\\baitap\\Views\\Shared\\_PvdLayout.cshtml",
+              "RelativeDocumentMoniker": "baitap\\Views\\Shared\\_PvdLayout.cshtml",
+              "ToolTip": "F:\\Core\\VSNetCore\\K23CNT1_PhamDuy_NetCore\\baitap\\baitap\\Views\\Shared\\_PvdLayout.cshtml",
+              "RelativeToolTip": "baitap\\Views\\Shared\\_PvdLayout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T01:31:15.194Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

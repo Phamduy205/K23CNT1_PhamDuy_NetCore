@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = baitap
+build_property.RootNamespace = baitap
+build_property.ProjectDir = F:\Core\VSNetCore\K23CNT1_PhamDuy_NetCore\baitap\baitap\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\Core\VSNetCore\K23CNT1_PhamDuy_NetCore\baitap\baitap
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/Core/VSNetCore/K23CNT1_PhamDuy_NetCore/baitap/baitap/Views/PvdHome/PvdAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHZkSG9tZVxQdmRBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Core/VSNetCore/K23CNT1_PhamDuy_NetCore/baitap/baitap/Views/PvdHome/PvdIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHZkSG9tZVxQdmRJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Core/VSNetCore/K23CNT1_PhamDuy_NetCore/baitap/baitap/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Core/VSNetCore/K23CNT1_PhamDuy_NetCore/baitap/baitap/Views/Shared/_PvdNavBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QdmROYXZCYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Core/VSNetCore/K23CNT1_PhamDuy_NetCore/baitap/baitap/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Core/VSNetCore/K23CNT1_PhamDuy_NetCore/baitap/baitap/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Core/VSNetCore/K23CNT1_PhamDuy_NetCore/baitap/baitap/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Core/VSNetCore/K23CNT1_PhamDuy_NetCore/baitap/baitap/Views/Shared/_PvdLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QdmRMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9pgvefg7s5
